@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinCrud</string>
+    <string name="refresh">Refresh</string>
+    <string name="add">Added</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
